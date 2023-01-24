@@ -1,3 +1,3 @@
-#Linkedin Clone
+# Linkedin Clone
 
-Used: HTML, CSS, Bootstrap5
+## Used: HTML, CSS, Bootstrap5
